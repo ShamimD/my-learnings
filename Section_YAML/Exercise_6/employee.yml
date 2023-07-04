@@ -26,6 +26,7 @@ Employee:
   Projects:
     - Automation
     - Support
+    - Development
   Payslips:
     - Month: June
       Wage: 4000
